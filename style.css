@@ -1,0 +1,21 @@
+* {
+   background-color: gold;
+}
+
+h1 {
+    color: rgb(184, 115, 51);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+li {
+    font-family: Arial, Helvetica, sans-serif;
+    list-style-type: square;
+    font-size: 1.4em;
+    line-height: 1.3em;
+    padding: 10px;
+}
+
+li a {
+    color: green;
+}
